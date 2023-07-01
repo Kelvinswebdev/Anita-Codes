@@ -1,0 +1,14 @@
+.ANITA{
+  display: flex;
+  padding:100px;
+  justify-content: center;
+}
+.ANITA img{
+  border-radius: 50px;
+}
+ h1{
+   text-align: center;
+ }
+p{
+  text-align: center;
+}
